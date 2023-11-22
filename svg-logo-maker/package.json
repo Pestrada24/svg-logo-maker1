@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+        "inquirer":"9.2.12"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@babel/core": "7.23.4",
+        "@babel/preset-env": "7.23.4",
+        "babel-jest": "24.9.0",
+        "jest": "24.9.0"
+    }
+}
